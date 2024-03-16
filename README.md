@@ -1,5 +1,7 @@
 # DataCamp Project: Exploring Airbnb Market Trends
 
+### Skills Demonstrated: cleaning data with NumPy and pandas, descriptive statistics with pandas
+
 Objective: Apply your importing and cleaning data and data manipulation skills to explore New York City Airbnb data.
 
 Project Description
